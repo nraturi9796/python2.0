@@ -55,5 +55,83 @@
 # print(name2)
 # print(name3)
 
+# python is case sensitive language
+#  sum of two number
+# a=42
+# b=45
+# sum=a+b
+# print(sum)
 
+# Operator 
+# An operator is symbol that perform certain operation in between operand
 
+# Python divides the operators in the following groups:
+
+# Arithmetic operators
+# Assignment operators
+# Comparison operators
+# Logical operators
+# Identity operators
+# Membership operators
+# Bitwise operators
+
+# Arithmetic operators(+,-,/,*,%,**)
+# a=45;
+# b=5;
+# print(a+b)
+# print(a-b)
+# print(a/b)
+# print(a*b)
+# print(a%b)
+# print(a**b)
+
+# Comparison operators
+# Operator	Name	Example	Try it
+# ==	Equal	x == y	
+# !=	Not equal	x != y	
+# >	Greater than	x > y	
+# <	Less than	x < y	
+# >=	Greater than or equal to	x >= y	
+# <=	Less than or equal to	x <= y
+
+# a=45;
+# b=54;
+# print(a==b)
+# print(a!=b)
+# print(a>b)
+# print(a<b)
+# print(a<=b)
+# print(a>=b)
+
+# Python Assignment Operators
+# Assignment operators are used to assign values to variables
+# =	x = 5	x = 5	
+# +=	x += 3	x = x + 3	
+# -=	x -= 3	x = x - 3	
+# *=	x *= 3	x = x * 3	
+# /=	x /= 3	x = x / 3	
+# %=	x %= 3	x = x % 3	
+# //=	x //= 3	x = x // 3	
+# **=	x **= 3	x = x ** 3	
+# &=	x &= 3	x = x & 3	
+# |=	x |= 3	x = x | 3	
+# ^=	x ^= 3	x = x ^ 3	
+# >>=	x >>= 3	x = x >> 3	
+# <<=	x <<= 3	x = x << 3	
+# # :=	print(x := 3)	x = 3
+# # print(x)
+# a=34
+# a +=9
+# print(a)
+# a=34
+# a -=9
+# print(a)
+# a=34
+# a *=9
+# print(a)
+# a=34
+# a /=9
+# print(a)
+# a=34
+# a %=9
+# print(a)
